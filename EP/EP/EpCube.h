@@ -1,5 +1,7 @@
 #pragma once
 
+#include "GL\glew.h"
+
 class EpCube {
 public:
 	EpCube();
